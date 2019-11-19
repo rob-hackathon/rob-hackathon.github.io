@@ -1,0 +1,58 @@
+safe: true
+source: .
+destination: ./_site
+highlighter: rouge
+markdown: kramdown
+exclude: ['CNAME', 'Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', '.sass-cache']
+sass:
+  style: uncompressed
+
+url: https://rob-hackathon.github.io
+baseurl: 
+
+deadlines:
+- name: Registration
+  date: TBA
+- name: Hackathon
+  date: June 6-11, 2020
+
+# Configuration for site
+title: RIOT on the Beach Hackathon
+# short_title: Dagstuhl IoT Hackathon 2017
+description: June 6-11, 2020, Borkum, Germany
+author: Organizers
+email:
+logo: images/logo-riot.jpg
+
+responsive_bp: 768
+
+permalink: /:page.html
+
+navbar_list:
+- name: Home
+  link: /
+- name: Venue
+  link: venue
+
+# Configuration for asides.html
+asides:
+  github: true
+  # tweets: false
+
+# google_analytics:
+#    account: UA-XXXXX-X
+
+# google_plus_one:
+#   size: medium
+
+# twitter:
+#   username: ?
+#   count: 5
+#   exclude_replies: true
+#   show_screen_name: true
+#   show_follower_count: false
+#   widget_id: ?
+
+github:
+   username: rob-hackathon
+   count: 10
