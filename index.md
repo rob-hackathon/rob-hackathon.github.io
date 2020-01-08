@@ -3,6 +3,8 @@ layout: default
 title: Welcome to the Hackathon RIOT on the Beach
 ---
 
+![rob-2020-logo](/images/rob-2020.002.png)
+
 # RIOT on the Beach
 
 [RIOT](https://riot-os.org/) is the friendly operating system for the Internet of Things.
