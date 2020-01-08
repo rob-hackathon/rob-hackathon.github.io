@@ -56,3 +56,5 @@ asides:
 github:
    username: rob-hackathon
    count: 10
+
+theme: jekyll-theme-hacker
