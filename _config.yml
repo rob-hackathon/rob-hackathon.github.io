@@ -22,7 +22,8 @@ title: RIOT on the Beach Hackathon
 description: June 6-11, 2020, Borkum, Germany
 author: Organizers
 email:
-logo: images/logo-riot.jpg
+# logo: images/logo-riot.jpg
+logo: images/rob-2020.002.png
 
 responsive_bp: 768
 
