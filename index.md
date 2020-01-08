@@ -7,7 +7,9 @@ title: Welcome to the Hackathon RIOT on the Beach
 ![rob-2020-logo](/images/rob-2020.002.png)
 -->
 
-# RIOT on the Beach
+# ![RIOT Logo](images/riot-logo.png){: style="float: center; padding-bottom: 24px"} on the Beach
+
+![Borkum Banner](images/Borkum_ELS_6196141206-banner.jpg){:class="img-responsive" .center-block}
 
 [RIOT](https://riot-os.org/) is the friendly operating system for the Internet of Things.
 The aim of this hackathon is to bring together prospective and established RIOT developers and researchers to work on practical solutions for the Internet of Things.
