@@ -24,3 +24,10 @@ The aim of this hackathon is to bring together prospective and established RIOT 
 - [Dirk Kutscher](http://dirk-kutscher.info/) (University of Applied Sciences Emden/Leer)
 - [Thomas C. Schmidt](http://inet.haw-hamburg.de/members/schmidt) (HAW Hamburg)
 - [Matthias W&auml;hlisch](http://www.mi.fu-berlin.de/en/inf/groups/ilab/members/waehlisch.html) (Freie Universit&auml;t Berlin)
+
+## Supporters
+
+- [University of Applies Sciences Emden/Leer](https://www.hs-emden-leer.de/en/)
+- [HAW Hamburg](https://www.haw-hamburg.de/english.html)
+- [Freie Universit&auml;t Berlin](https://www.fu-berlin.de)
+- [Photografie Martin Elsen](https://luftbild.fotograf.de/)
